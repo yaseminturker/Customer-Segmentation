@@ -1,8 +1,9 @@
-# Uncovering Consumer Trends: A Two-Year Analysis of Online Retail Transactions through Customer Segmentation
+# Uncovering consumer trends: A two-year analysis of online retail transactions through customer segmentation
 
 ## Context
 
 A real online retail transaction data set of two years:
+
 https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 

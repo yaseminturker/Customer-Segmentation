@@ -1,4 +1,4 @@
-# Customer-Segmentation
+# Uncovering Consumer Trends: A Two-Year Analysis of Online Retail Transactions through Customer Segmentation
 
 ## Context
 
